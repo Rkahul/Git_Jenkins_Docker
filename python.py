@@ -1,1 +1,1 @@
-printf("Hello Java")
+print("Hello Java")
