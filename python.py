@@ -1,1 +1,2 @@
-printf("Hello Java")
+print("Hello Java")
+print("Thank for this tutorial")
